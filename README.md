@@ -15,5 +15,6 @@ Moteur de résolution du **Problème du Voyageur de Commerce (TSP)** développé
 
 ### Compilation
 ```bash
-g++ -std=c++11 Programme.cpp -o tsp_solver
+g++ -std=c++11 Programme.cpp structure.hpp -o tsp_solver
+
 
